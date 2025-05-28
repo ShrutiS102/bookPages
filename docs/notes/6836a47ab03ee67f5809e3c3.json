@@ -2,14 +2,11 @@
   "type": "doc",
   "content": [
     {
-      "type": "heading",
-      "attrs": {
-        "level": 2
-      },
+      "type": "paragraph",
       "content": [
         {
           "type": "text",
-          "text": "Start Editing"
+          "text": "Content for first page comes here..."
         }
       ]
     }
